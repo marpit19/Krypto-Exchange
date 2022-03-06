@@ -18,7 +18,7 @@ const style = {
   buttonPadding: `p-2`,
   buttonTextContainer: `h-8 flex items-center`,
   buttonIconContainer: `flex items-center justify-center w-8 h-8`,
-  buttonAccent: `bg-[#144552] border border-[#1B3A4B] hover:border-[#006466] h-full rounded-2xl flex items-center justify-center text-[white]`,
+  buttonAccent: `bg-[#3E1F47] border border-[#1B3A4B] hover:border-[#006466] h-full rounded-2xl flex items-center justify-center text-[white]`,
 }
 
 const Header = () => {
